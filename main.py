@@ -1,7 +1,7 @@
 # This is my first game in python.
 # Name of the game: Rock, Paper, Scissors
 # Author: Joydeep Pakira
-# Date: 2023-10-01
+# Date: 12-08-2025
 
 import random
 
