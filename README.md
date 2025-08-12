@@ -164,11 +164,11 @@ Here are some ideas to make the game even better:
 ## 👤 Author
 
 **Joydeep Pakira**
-- GitHub: [@joydeeppakira](https://github.com/joydeeppakira)
+- GitHub: [@Pakira-Joydeep](https://github.com/Pakira-J)
 - First Python Game Project! 🎉
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn8zxWe34qWdJzq/giphy.gif" width="200" alt="Celebration">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NzNjNxdTh4cjJqNWUzamx5dHlnamx2YjN1YzdxejR6djgzejUxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CHyxN9bNkMc3S/giphy.gif" width="200" alt="Celebration">
 </div>
 
 ## 🙏 Acknowledgments
